@@ -1,0 +1,8 @@
+[Code:1 nom:Ali prénom:Salem Salaire:12000 DH]
+[Code:2 nom:Hassan prénom:Mohammed Salaire:10000 DH]
+[Code:3 nom:Omar prénom:Karim Salaire:15000 DH]
+[Code:4 nom:Morad prénom:Lotfi Salaire:185000 DH Grade:Commandant Nombre heures vols:3500]
+[Code:5 nom:Amine prénom:Rachid Salaire:140800 DH Grade:Capitaine Nombre heures vols:2500]
+[Code:6 nom:Fatima civilite:Féminin Salaire:33800 DH]
+[Code:7 nom:Yassine civilite:Masculin Salaire:28600 DH]
+[Code:8 nom:Mouna civilite:Féminin Salaire:31200 DH]
